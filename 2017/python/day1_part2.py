@@ -1,5 +1,5 @@
 """
-AOC 2017 Day 1 Part 1: Inverse Captcha
+AOC 2017 Day 1 Part 2: Inverse Captcha
 
 Review a sequence of digits and find the sum of all digits that match the digit
 halfway through the list. For example, if the list contains 10 items, only
